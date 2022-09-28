@@ -1,4 +1,4 @@
-<strong font-size='12px'>Hi 👋, I'm WAQAR YOUNUS</strong>
+<strong fontsize='18px'>Hi 👋, I'm WAQAR YOUNUS</strong>
 <h3 align="center">A passionate frontend/backend developer from PAKISTAN</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waqaryounus2000" alt="waqaryounus2000" /></a> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **waqarsays000@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" color="blue">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wamicsays000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wamicsays000" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/waqarsays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="waqarsays" height="30" width="40" /></a>

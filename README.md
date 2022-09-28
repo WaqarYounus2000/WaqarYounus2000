@@ -1,4 +1,4 @@
-<strong>Hi 👋, I'm WAQAR YOUNUS</strong>
+<strong font-size='12px'>Hi 👋, I'm WAQAR YOUNUS</strong>
 <h3 align="center">A passionate frontend/backend developer from PAKISTAN</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waqaryounus2000" alt="waqaryounus2000" /></a> </p>

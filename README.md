@@ -1,7 +1,11 @@
 Hi 👋, I'm WAQAR YOUNUS
-<h3 align="center">A passionate frontend/backend developer from PAKISTAN</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waqaryounus2000" alt="waqaryounus2000" /></a> </p>
+
+<h3 align="center">A passionate frontend/backend developer from PAKISTAN</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="![image](https://user-images.githubusercontent.com/83652319/192735291-b88a4e89-e19a-4f8e-884f-12d3e0b343d0.png)
+" alt="waqaryounus2000" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJs,Vue,React,ReactNative**
 
